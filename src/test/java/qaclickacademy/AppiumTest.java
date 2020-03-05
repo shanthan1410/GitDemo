@@ -23,5 +23,10 @@ public class AppiumTest {
 	public void realAppIos(){
 		System.out.println("realAppIos");
 	}
+	
+	@Test
+	public void realAppIos1(){
+		System.out.println("realAppIos1");
+	}
 
 }
