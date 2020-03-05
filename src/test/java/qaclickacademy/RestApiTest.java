@@ -7,6 +7,8 @@ public class RestApiTest {
 	@Test
 	public void postJira(){
 		System.out.println("postJira");
+		System.out.println("postJira1");
+		System.out.println("postJira2");
 	}
 	
 	@Test
